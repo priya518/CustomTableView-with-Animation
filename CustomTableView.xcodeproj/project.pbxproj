@@ -16,6 +16,7 @@
 		0194F4D523B4DAE9001DE29C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0194F4D323B4DAE9001DE29C /* LaunchScreen.storyboard */; };
 		0194F4E023B4DAE9001DE29C /* CustomTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0194F4DF23B4DAE9001DE29C /* CustomTableViewTests.swift */; };
 		0194F4EB23B4DAE9001DE29C /* CustomTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0194F4EA23B4DAE9001DE29C /* CustomTableViewUITests.swift */; };
+		0194F4F923B4DCDE001DE29C /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0194F4F823B4DCDE001DE29C /* MyTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		0194F4E623B4DAE9001DE29C /* CustomTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0194F4EA23B4DAE9001DE29C /* CustomTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewUITests.swift; sourceTree = "<group>"; };
 		0194F4EC23B4DAE9001DE29C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0194F4F823B4DCDE001DE29C /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				0194F4D323B4DAE9001DE29C /* LaunchScreen.storyboard */,
 				0194F4D623B4DAE9001DE29C /* Info.plist */,
 				0194F4CE23B4DAE8001DE29C /* CustomTableView.xcdatamodeld */,
+				0194F4F823B4DCDE001DE29C /* MyTableViewCell.swift */,
 			);
 			path = CustomTableView;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				0194F4CA23B4DAE8001DE29C /* ViewController.swift in Sources */,
 				0194F4C623B4DAE8001DE29C /* AppDelegate.swift in Sources */,
 				0194F4D023B4DAE8001DE29C /* CustomTableView.xcdatamodeld in Sources */,
+				0194F4F923B4DCDE001DE29C /* MyTableViewCell.swift in Sources */,
 				0194F4C823B4DAE8001DE29C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
